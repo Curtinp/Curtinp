@@ -1,16 +1,16 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Curtin Pete 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ## About Me
 
-Hi, I'm [Your Name], a passionate developer from [Your Country]. I specialize in [Your Specialization], and I love contributing to open-source projects and building innovative solutions.
+Hi, I'm I'm Curtin Pete, a passionate developer from ChengDu. I specialize in [Your Specialization], and I love contributing to open-source projects and building innovative solutions.
 
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m currently learning [New Skill or Technology]
 - 👯 I’m looking to collaborate on [Type of Projects]
 - 💬 Ask me about [Topics you are interested in]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: curtinp118@gmail.com
 - ⚡ Fun fact: [A fun fact about you]
 
 ## Skills and Technologies
