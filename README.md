@@ -22,9 +22,9 @@ Hi, I'm I'm Curtin Pete, a passionate developer from ChengDu. I specialize in [Y
 
 ## Projects
 
-### [Project 1 Name]
+### [QuantumultX]
 [Project Description]
-- [Link to Project](#)
+- [Link to Project](https://github.com/Curtinp/QuantumultX)
 - ![Project Image](https://via.placeholder.com/150)
 
 ### [Project 2 Name]
